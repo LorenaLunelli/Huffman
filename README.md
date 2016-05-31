@@ -1,5 +1,5 @@
 # Huffman Algorithm
-by Lorena Lunelli Faé Santos
+by Lorena Lunelli
 ___
 
 <h3> Description </h3>
